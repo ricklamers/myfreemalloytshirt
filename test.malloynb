@@ -1,0 +1,14 @@
+[
+  {
+    "kind": 2,
+    "language": "malloy",
+    "value": "query: table('duckdb:test.csv') -> { project: * }",
+    "metadata": {}
+  },
+  {
+    "kind": 2,
+    "language": "malloy",
+    "value": "",
+    "metadata": {}
+  }
+]
